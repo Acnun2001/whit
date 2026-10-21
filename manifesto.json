@@ -1,0 +1,233 @@
+{
+  "requested_url": "https://oferta.poderdotoque.com/online?utm_source=FB&utm_campaign=TESTE+BIDCAP%7C120251496346450512&utm_medium=CJ77+-+1%7C120252219548940512&utm_content=5%7C120252219672080512&utm_term=Facebook_Mobile_Feed&HhSGG0vJvu=b3mAGpeka7&fbclid=IwdGRjcAU5tIlleHRuA2FlbQEwAHBkb2YFZmRpZBZRAnmHUZCl6MLLmwQXOdJJTAywm-BeYWRpZAGrON59SvhQc3J0YwZhcHBfaWQKNjYyODU2ODM3OQABHsAWLHK32kQ4o7s5nNs_wanCukGZZm9jon0DGtheYK14zV81ICs1qYKorpg__aem_U-Smiata1hKWUm3BAVpjIQ&utm_id=120251496346450512",
+  "final_url": "https://mulheresnocontrole.online/projeto/?utm_source=FB&utm_campaign=TESTE+BIDCAP%7C120251496346450512&utm_medium=CJ77+-+1%7C120252219548940512&utm_content=5%7C120252219672080512&utm_term=Facebook_Mobile_Feed&HhSGG0vJvu=b3mAGpeka7&fbclid=IwdGRjcAU5tIlleHRuA2FlbQEwAHBkb2YFZmRpZBZRAnmHUZCl6MLLmwQXOdJJTAywm-BeYWRpZAGrON59SvhQc3J0YwZhcHBfaWQKNjYyODU2ODM3OQABHsAWLHK32kQ4o7s5nNs_wanCukGZZm9jon0DGtheYK14zV81ICs1qYKorpg__aem_U-Smiata1hKWUm3BAVpjIQ&utm_id=120251496346450512",
+  "content_type": "text/html; charset=UTF-8",
+  "page_bytes": 2866564,
+  "media_elements_detected": [],
+  "downloads": [
+    {
+      "type": "text/css",
+      "url": "https://mulheresnocontrole.online/wp-content/litespeed/css/3b434757ad2e3eaebe636ca2a5cf6f36.css?ver=8bc99",
+      "file": "assets/3b434757ad2e3eaebe636ca2a5cf6f36.css",
+      "bytes": 174362,
+      "sha256": "4171b337fb9c620ef8da20bced012cc0aa9ac5e8c852bc8cd5209ace07172526",
+      "tag": "link"
+    },
+    {
+      "type": "application/x-javascript",
+      "url": "https://mulheresnocontrole.online/wp-content/plugins/woocommerce-google-adwords-conversion-tracking-tag/js/public/free/pmw-public.p1.min.js?ver=1.69.1",
+      "file": "assets/pmw-public.p1.min.js",
+      "bytes": 131136,
+      "sha256": "3749966bdf746f5e3f05f86efbd5934588faaaf29eeefc6e580085ee246a30d7",
+      "tag": "script"
+    },
+    {
+      "type": "image/png",
+      "url": "embedded:data-uri",
+      "file": "assets/imagem_embutida_1.png",
+      "bytes": 2101900,
+      "sha256": "a9c6f15a37588b21240e29e0fca4c60478ecf77fc1dff36b18fa9a746e58851a",
+      "tag": "img"
+    },
+    {
+      "type": "font/woff2",
+      "url": "https://mulheresnocontrole.online/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkc3kawzu.woff2",
+      "file": "assets/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkc3kawzu.woff2",
+      "bytes": 39456,
+      "sha256": "fbeb2620ecd7451cd9f27a70e7ec39e1597cb33fd36be9424bf97a18c0e2e786",
+      "tag": "css-url"
+    },
+    {
+      "type": "font/woff2",
+      "url": "https://mulheresnocontrole.online/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkankawzu.woff2",
+      "file": "assets/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkankawzu.woff2",
+      "bytes": 24576,
+      "sha256": "a5ee960e6273ecaa1787150604d18a2be3fad74cf76936f916ed8b235a4106bb",
+      "tag": "css-url"
+    },
+    {
+      "type": "font/woff2",
+      "url": "https://mulheresnocontrole.online/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcnkawzu.woff2",
+      "file": "assets/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcnkawzu.woff2",
+      "bytes": 4468,
+      "sha256": "68ab4e107fc1d8d32d358b0e8c8182921e7934e4fc672f3805dfa9a16946a9fb",
+      "tag": "css-url"
+    },
+    {
+      "type": "font/woff2",
+      "url": "https://mulheresnocontrole.online/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbxkawzu.woff2",
+      "file": "assets/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbxkawzu.woff2",
+      "bytes": 18800,
+      "sha256": "baac6db7ec159297d2fe9d313222d826e76b09fd72be43530b632059d482c02d",
+      "tag": "css-url"
+    },
+    {
+      "type": "font/woff2",
+      "url": "https://mulheresnocontrole.online/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkenkawzu.woff2",
+      "file": "assets/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkenkawzu.woff2",
+      "bytes": 44336,
+      "sha256": "8754810078212d20cc4d3e96f6c4fd2d2252e06263617681ebd1cfae813b68b2",
+      "tag": "css-url"
+    },
+    {
+      "type": "font/woff2",
+      "url": "https://mulheresnocontrole.online/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkahkawzu.woff2",
+      "file": "assets/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkahkawzu.woff2",
+      "bytes": 22288,
+      "sha256": "900190befc0dfe4ae99fefcbe7f72425c48a61ebe3ff00bbe93b0287e0007c97",
+      "tag": "css-url"
+    },
+    {
+      "type": "font/woff2",
+      "url": "https://mulheresnocontrole.online/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcxkawzu.woff2",
+      "file": "assets/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcxkawzu.woff2",
+      "bytes": 13888,
+      "sha256": "a0435a376ff703ac8ceedd566f18e3b025d91f35349b21968a09d65080fac0b6",
+      "tag": "css-url"
+    },
+    {
+      "type": "font/woff2",
+      "url": "https://mulheresnocontrole.online/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkchkawzu.woff2",
+      "file": "assets/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkchkawzu.woff2",
+      "bytes": 28536,
+      "sha256": "b9acf16c2906a6b95c31bf7cd8b417bfc32f83216a50d70c0cd41e57a1922f4a",
+      "tag": "css-url"
+    },
+    {
+      "type": "font/woff2",
+      "url": "https://mulheresnocontrole.online/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbnka.woff2",
+      "file": "assets/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbnka.woff2",
+      "bytes": 44192,
+      "sha256": "9ec9eb9108f1752c30ba316606858d685a112a609d8bef1fb3d5d32c8e0b6507",
+      "tag": "css-url"
+    },
+    {
+      "type": "font/woff2",
+      "url": "https://mulheresnocontrole.online/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3gubgee.woff2",
+      "file": "assets/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3gubgee.woff2",
+      "bytes": 35568,
+      "sha256": "3a8eee8312b77ac2ef2dc2e01fdddf8ede8a4f72bf1a08d40745d8b432386fdf",
+      "tag": "css-url"
+    },
+    {
+      "type": "font/woff2",
+      "url": "https://mulheresnocontrole.online/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3iubgee.woff2",
+      "file": "assets/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3iubgee.woff2",
+      "bytes": 22796,
+      "sha256": "c06ca3fcbc5f7c37ebb7c86a69502009911ecd8183811bae02f9b1fbb0541ddb",
+      "tag": "css-url"
+    },
+    {
+      "type": "font/woff2",
+      "url": "https://mulheresnocontrole.online/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3cubgee.woff2",
+      "file": "assets/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3cubgee.woff2",
+      "bytes": 4340,
+      "sha256": "d94ccab74005ea632c5680d33d34586634ded595035990fa2cfef2f1e1cccb55",
+      "tag": "css-url"
+    },
+    {
+      "type": "font/woff2",
+      "url": "https://mulheresnocontrole.online/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3-ubgee.woff2",
+      "file": "assets/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3-ubgee.woff2",
+      "bytes": 17628,
+      "sha256": "31c5962274d8bd31cbf72f45aaa615f33f230088491b4ee5d9f544fef10c418e",
+      "tag": "css-url"
+    },
+    {
+      "type": "font/woff2",
+      "url": "https://mulheresnocontrole.online/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamawcubgee.woff2",
+      "file": "assets/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamawcubgee.woff2",
+      "bytes": 40572,
+      "sha256": "d758e85352971dffe51a5992405eb8f9b316b1bed82495445c328699ee400830",
+      "tag": "css-url"
+    },
+    {
+      "type": "font/woff2",
+      "url": "https://mulheresnocontrole.online/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamaxkubgee.woff2",
+      "file": "assets/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamaxkubgee.woff2",
+      "bytes": 20408,
+      "sha256": "e921785496ed2d98c2257c88a6f838afa6acbee05cb8467048501bfe2a301461",
+      "tag": "css-url"
+    },
+    {
+      "type": "font/woff2",
+      "url": "https://mulheresnocontrole.online/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3oubgee.woff2",
+      "file": "assets/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3oubgee.woff2",
+      "bytes": 13004,
+      "sha256": "38ca68052df6bb72126ff9cedd7d78d2afe62079e9149ddedf650ae8f4c744cf",
+      "tag": "css-url"
+    },
+    {
+      "type": "font/woff2",
+      "url": "https://mulheresnocontrole.online/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3kubgee.woff2",
+      "file": "assets/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3kubgee.woff2",
+      "bytes": 26428,
+      "sha256": "884933fb5789b478d2da68a4cb0bd5cc138d995f1fea9a957ba29cb3c00f1bf7",
+      "tag": "css-url"
+    },
+    {
+      "type": "font/woff2",
+      "url": "https://mulheresnocontrole.online/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2",
+      "file": "assets/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2",
+      "bytes": 40128,
+      "sha256": "20b535fa80c8189e3b87d1803038389960203a886d502bc2ef1857affc2f38d2",
+      "tag": "css-url"
+    },
+    {
+      "type": "font/woff2",
+      "url": "https://mulheresnocontrole.online/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a.woff2",
+      "file": "assets/robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a.woff2",
+      "bytes": 32340,
+      "sha256": "1dbd6cd2d04f8b494745edb00a5d680647a941ef0a6a92b5dda2f88484e14ea5",
+      "tag": "css-url"
+    },
+    {
+      "type": "font/woff2",
+      "url": "https://mulheresnocontrole.online/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufj5qw54a.woff2",
+      "file": "assets/robotoslab-bngmuxzytxpivibgjjsb6ufj5qw54a.woff2",
+      "bytes": 21364,
+      "sha256": "dd198b63cc5e2197b0cb45340117826cd5c84799f4feee848bfce386a6ab0d8a",
+      "tag": "css-url"
+    },
+    {
+      "type": "font/woff2",
+      "url": "https://mulheresnocontrole.online/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufb5qw54a.woff2",
+      "file": "assets/robotoslab-bngmuxzytxpivibgjjsb6ufb5qw54a.woff2",
+      "bytes": 2220,
+      "sha256": "d1e0e0b021857c8f3346e52eb461392407ee3705368a84e45a9b6ab7495afebb",
+      "tag": "css-url"
+    },
+    {
+      "type": "font/woff2",
+      "url": "https://mulheresnocontrole.online/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufo5qw54a.woff2",
+      "file": "assets/robotoslab-bngmuxzytxpivibgjjsb6ufo5qw54a.woff2",
+      "bytes": 14868,
+      "sha256": "5e7dd3964dcc470422823bb934ee19672a22f839ebe42d0153a49a15541b6021",
+      "tag": "css-url"
+    },
+    {
+      "type": "font/woff2",
+      "url": "https://mulheresnocontrole.online/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufc5qw54a.woff2",
+      "file": "assets/robotoslab-bngmuxzytxpivibgjjsb6ufc5qw54a.woff2",
+      "bytes": 9980,
+      "sha256": "6774cefbdbcbb36f47b8a3f0aa51bfbeec1d198e3ddfbaf27f1ecdfad251f43c",
+      "tag": "css-url"
+    },
+    {
+      "type": "font/woff2",
+      "url": "https://mulheresnocontrole.online/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufd5qw54a.woff2",
+      "file": "assets/robotoslab-bngmuxzytxpivibgjjsb6ufd5qw54a.woff2",
+      "bytes": 21200,
+      "sha256": "b8738ce2a734cb5c5da3d864362fdd4a3975c3ddb944b2fd4b201629e86ee4ef",
+      "tag": "css-url"
+    },
+    {
+      "type": "font/woff2",
+      "url": "https://mulheresnocontrole.online/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufn5qu.woff2",
+      "file": "assets/robotoslab-bngmuxzytxpivibgjjsb6ufn5qu.woff2",
+      "bytes": 34236,
+      "sha256": "50cf7d32c18e1001749b51f1565ef745bc0687b0297b2b13465ed577cc20a8ff",
+      "tag": "css-url"
+    }
+  ]
+}

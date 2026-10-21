@@ -1,0 +1,14 @@
+PACOTE DE RECURSOS — OFERTA “O PODER DO TOQUE”
+
+Origem fornecida: https://oferta.poderdotoque.com/online
+Destino após redirecionamento: https://mulheresnocontrole.online/projeto/
+
+Conteúdo incluído:
+- pagina.html: cópia HTML da página pública recebida após o redirecionamento;
+- assets/: imagem embutida na página e recursos estáticos públicos referenciados (CSS, JavaScript e fontes);
+- manifesto.json: URLs de origem, tipos, tamanhos e hashes SHA-256 dos recursos baixados.
+
+Limite de acesso observado:
+A página acessível é uma landing page de oferta. O inventário do HTML e do DOM não encontrou elementos de vídeo, fontes de vídeo ou iframes/player, nem botão para avançar para uma página seguinte. Os CTAs da landing page levam ao checkout pago (oferta exibida por R$ 9,90). Não foi iniciado pagamento nem acessado conteúdo condicionado à compra; por isso, não havia etapa de vídeo em que fosse possível aguardar cinco minutos para liberar um botão. O pacote contém somente arquivos que a página pública carregou/referenciou sem autenticação ou pagamento; não contém aulas ou vídeos do curso.
+
+Observação: arquivos baixados para referência/inspeção. A cópia HTML pode depender de rede para carregar recursos e links externos.
